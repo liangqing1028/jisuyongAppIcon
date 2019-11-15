@@ -13,6 +13,7 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/liangqing1028/jisuyongAppIcon/master/ShoppingMall_V1.1.1_test.plist</string>
 				</dict>
+
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
@@ -40,4 +41,4 @@
 		</dict>
 	</array>
 </dict>
-</plist>
+</plit>
