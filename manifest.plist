@@ -13,18 +13,17 @@
 					<key>url</key>
 					<string>http://gitlab.dafycredit.com/539953/iOSAppDownload/raw/master/apps/ShoppingMall.ipa</string>
 				</dict>
-
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://3c.dafysz.cn/file/ios/vesion/image57.png</string>
+					<string>https://github.com/liangqing1028/jisuyongAppIcon/raw/master/icon-29%402x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://3c.dafysz.cn/app/file/ios/vesion/image512.png</string>
+					<string>https://github.com/liangqing1028/jisuyongAppIcon/raw/master/icon-1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,10 +34,12 @@
 				<string>1.0.9.13</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
 				<string>即速用</string>
 			</dict>
 		</dict>
 	</array>
 </dict>
-</plit>
+</plist>
